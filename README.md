@@ -4,6 +4,8 @@
 
 <h1 align="center">praxi</h1>
 
+<p align="center"><b>Frictionless Agency.</b></p>
+
 <p align="center">Run Claude Code, Codex, pi or any agent side by side on your Mac.</p>
 
 <p align="center">
