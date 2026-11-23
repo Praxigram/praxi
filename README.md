@@ -9,17 +9,15 @@
 <p align="center">Run Claude Code, Codex, pi or any agent side by side on your Mac.</p>
 
 <p align="center">
-  <a href="https://px.praxigram.com/download/macos"><b>Download for macOS</b></a> ·
   <a href="https://px.praxigram.com/?utm_source=github&utm_medium=referral&utm_campaign=praxi_repo&utm_content=readme_website">Website</a> ·
   <a href="https://px.praxigram.com/docs?utm_source=github&utm_medium=referral&utm_campaign=praxi_repo&utm_content=readme_docs">Docs</a> ·
-  <a href="https://px.praxigram.com/?utm_source=github&utm_medium=referral&utm_campaign=praxi_repo&utm_content=readme_pricing#pricing">Pricing</a>
+  <a href="https://px.praxigram.com/?utm_source=github&utm_medium=referral&utm_campaign=praxi_repo&utm_content=readme_pricing#pricing">Pricing</a> ·
+  <a href="https://px.praxigram.com/download/macos">Download for macOS</a>
 </p>
 
 ## Get started
 
 1. Install praxi:
-
-   **Download:** [praxi for macOS](https://px.praxigram.com/download/macos). Open it and drag praxi to Applications.
 
    **Terminal:**
 
@@ -27,11 +25,13 @@
    curl -fsSL https://px.praxigram.com/install.sh | sh
    ```
 
-   **Ask your agent:** paste this into Claude Code, Codex or the coding agent you use:
+   **Ask your agent to install & set up praxi:** paste this into Claude Code, Codex or the coding agent you use:
 
    ```text
    Help me install praxi on this Mac and learn to use it. Follow the "Start here" steps at https://px.praxigram.com/llms.txt. Show me each command and wait for my OK before you run it.
    ```
+
+   **Download:** [praxi for macOS](https://px.praxigram.com/download/macos). Open it and drag praxi to Applications.
 
 2. Install tmux if you don't have it yet: `brew install tmux`.
 3. Open praxi and choose **Subscribe** to start your free trial. A payment method is required.
